@@ -1,5 +1,5 @@
 #include <iostream>
-#include "ma_classe.h"
+#include "includes/My_class.h"
 
 using namespace std;
 int main()
@@ -9,6 +9,6 @@ int main()
     additioner calcule;
     //utulisation de la fonction addition sur l'objet
     //calcule
-    calcule.addition_de_deux_nombre;
+    calcule.addition_de_deux_nombre();
 
 }
